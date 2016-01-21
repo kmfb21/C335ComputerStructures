@@ -1,0 +1,25 @@
+Name: Bo Fang
+username: bofang
+
+Results: all works
+
+$ gcc -o mywc mywc.c 
+$ ./mywc <haiku 
+3  5 32
+$ gcc -o test test.c myprintf.c
+$ ./test 
+Nothing much
+The letter A
+A string: Splash!
+The number 11
+The number b in hexadecimal
+-5 is a negative number
+The number 65
+The number 41 in hexadecimal
+
+The difficulties:
+Nothing difficult in this lab
+only error I met is I defined putchar() in myprint.c which is already defined in stdio.h
+
+Tell at least one thing that you learned:
+I learned that we can use putchar directly with stdio.h to put character.
