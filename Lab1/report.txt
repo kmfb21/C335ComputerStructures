@@ -1,0 +1,19 @@
+Name: Bo Fang
+Username: bofang
+
+Results:
+accomplish: Successfully set up ssh key and tested
+created my repository and add collaborators
+used shell create Lab1 and hello.c
+compile hello.c and run ./hello
+create my own myhello.c and run
+
+
+What worked, and what didn't?
+all worked and nothing didn’t work.
+
+The difficulties that arose (if any) and how you overcame them. (Here's where you can brag about your cleverness.):
+None
+
+Tell at least one thing that you learned:
+I learned that we can use sleep to make user wait for our output
