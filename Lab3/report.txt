@@ -1,0 +1,15 @@
+1.
+Bo Fang (bofang)
+Omar White (omawhite)
+
+2.
+All work
+and the result is perfect
+
+3.
+we didn’t know how to show + or - in front of integers,
+then we found it from wikipedia: %+d
+
+4. I learned how to use gdb show memory address of value in 
+C program. and also,  I learn more clearly about how union type deal
+with its memory.
