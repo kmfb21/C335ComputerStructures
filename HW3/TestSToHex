@@ -1,0 +1,3 @@
+arm-none-eabi-as test.s -o test.o
+arm-none-eabi-objcopy test.o -O binary --only-section=.text test.bin
+hexdump -x test.bin |sed -e 's/^[^ ]*//' > test.hex
